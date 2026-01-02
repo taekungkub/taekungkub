@@ -5,7 +5,7 @@ Hi there 👋
 I'm **Tae (Kieattisak Suparit)**, a Developer from Thailand 🇹🇭  
 
 💻 I specialize in **Frontend Development** and have strong experience building modern, scalable user interfaces.  
-⚙️ I also work as a **Full-stack Developer**, with solid knowledge in backend technologies.  
+⚙️ I also work as a **Full-stack Developer**.  
 
 🌱 Currently exploring full-stack development with **Express.js** and **MongoDB**  
 🚀 Passionate about learning new technologies and building clean, maintainable, and impactful products  
